@@ -1,0 +1,4 @@
+openai>=2.0.0
+weave>=0.52.0
+wandb>=0.18.0
+python-dotenv>=1.0.1
